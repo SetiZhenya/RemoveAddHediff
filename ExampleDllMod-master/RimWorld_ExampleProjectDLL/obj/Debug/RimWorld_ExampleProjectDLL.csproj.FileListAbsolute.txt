@@ -1,0 +1,11 @@
+D:\_Programmierung\_GitHub_Repositories\Ludeon\ExampleDllMod\RimWorld_ExampleProjectDLL\bin\Debug\RimWorldExampleProjectDLL.dll
+D:\_Programmierung\_GitHub_Repositories\Ludeon\ExampleDllMod\RimWorld_ExampleProjectDLL\bin\Debug\RimWorldExampleProjectDLL.pdb
+D:\_Programmierung\_GitHub_Repositories\Ludeon\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorld_ExampleProjectDLL.csprojResolveAssemblyReference.cache
+D:\_Programmierung\_GitHub_Repositories\Ludeon\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.dll
+D:\_Programmierung\_GitHub_Repositories\Ludeon\ExampleDllMod\RimWorld_ExampleProjectDLL\obj\Debug\RimWorldExampleProjectDLL.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\bin\Debug\AssemblyDLL.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\bin\Debug\AssemblyDLL.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\obj\Debug\RimWorld_ExampleProjectDLL.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\obj\Debug\RimWorld_ExampleProjectDLL.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\obj\Debug\AssemblyDLL.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\ExampleDllMod-master\RimWorld_ExampleProjectDLL\obj\Debug\AssemblyDLL.pdb
